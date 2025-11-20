@@ -48,6 +48,10 @@ The full analysis code can be viewed in Google Colab here:
 
 The analysis was originally executed in **Google Colab**.
 
+GitHub Repository
+https://github.com/AditiWarrier/ds_AditiWarrier
+
+
 To run locally, install:
 
 - Python 3.8+
@@ -61,9 +65,7 @@ To run locally, install:
 
 Install all at once:
 
-```
 pip install pandas numpy matplotlib seaborn scipy scikit-learn statsmodels
-```
 
 
 
